@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "Transposable Element Introduction"
-permalink: /labintro/TEintro
+permalink: /arensburger/labintro/TEintro/
 ---
 <h2> here is some content </h2>
