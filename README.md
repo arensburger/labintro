@@ -11,3 +11,4 @@ https://arensburger.github.io/labintro/Galaxy_101.html<br>
 https://arensburger.github.io/labintro/Quality_Control.html<br>
 https://arensburger.github.io/labintro/Mapping.html<br>
 https://arensburger.github.io/labintro/RNAseq_reads_per_gene.html<br>
+(Note: Jan 2024 tried moving the labs into their own directory but it's not working)
