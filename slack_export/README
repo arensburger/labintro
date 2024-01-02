@@ -1,2 +1,5 @@
-Jan 1, 2024
-This folder contains the export of Slack, that I've given up on because it's too expensive. I exported my entire slack archive into the file Arensburger lab notebook Slack export Jul 17 2020 - Jan 1 2024.zip and converted it into HTML using the slack-export-viewer here: https://github.com/hfaran/slack-export-viewer (local command to see the export is peter@carmen:~$ slack-export-viewer -z ~/Desktop/Arensburger\ lab\ notebook\ Slack\ export\ Jul\ 17\ 2020\ -\ Jan\ 1\ 2024.zip). Selected slack pages were saved so they could be accessed via the html server.
+ # Jan 1, 2024
+This folder contains the export of Slack, that I've given up on because it's too expensive.
+I exported my entire slack archive into the file Arensburger lab notebook Slack export Jul 17 2020 - Jan 1 2024.zip and converted it into HTML using the slack-export-viewer [here](https://github.com/hfaran/slack-export-viewer). The local command to see the export is 
+`peter@carmen:~$ slack-export-viewer -z ~/Desktop/Arensburger\ lab\ notebook\ Slack\ export\ Jul\ 17\ 2020\ -\ Jan\ 1\ 2024.zip`
+Selected slack pages were saved so they could be accessed via the html server.
